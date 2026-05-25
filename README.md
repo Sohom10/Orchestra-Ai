@@ -10,6 +10,10 @@ Powered by **LangGraph**, **Groq**, and **Google Gemini**, the application deplo
 
 ## 🚀 Visual Interface Audits & Screenshots
 
+
+
+
+
 *Here is a preview of the premium, sepia-toned glassmorphism user interface. You can save your screenshots in a folder named `screenshots` in the root of this repository and they will display beautifully!*
 
 | **Landing Desk & Controller Board** | **Multi-Agent Neural Matrix Terminal** |
@@ -20,6 +24,8 @@ Powered by **LangGraph**, **Groq**, and **Google Gemini**, the application deplo
 ### Sanitized Publication Report
 ![Research Report](./screenshots/research_report.png)
 *Beautifully typeset academic output containing zero modern visual anachronisms.*
+
+
 
 ---
 
