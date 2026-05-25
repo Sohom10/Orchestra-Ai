@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+langchain
+langchain-groq
+langchain-google-genai
+langchain-community
+langgraph
+python-dotenv
+pydantic
+groq
+google-generativeai
+google-genai
+python-docx
+httpx
+ddgs>=9.14.0
+pypdf
+python-multipart

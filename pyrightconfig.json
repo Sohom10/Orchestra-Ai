@@ -1,0 +1,8 @@
+{
+  "venvPath": "c:\\Users\\Sohom Pal\\Desktop\\Orchestra Ai\\orchestra-ai\\backend",
+  "venv": ".venv",
+  "extraPaths": [
+    "c:\\Users\\Sohom Pal\\Desktop\\Orchestra Ai\\orchestra-ai\\backend",
+    "c:\\Users\\Sohom Pal\\Desktop\\Orchestra Ai\\orchestra-ai\\backend\\.venv\\Lib\\site-packages"
+  ]
+}
