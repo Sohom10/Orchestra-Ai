@@ -2,7 +2,7 @@
 
 Orchestra AI is a state-of-the-art, multi-agent cooperative research platform that automates deep data context scraping, narrative synthesis, adversarial validation, and period-accurate stock media visualization. 
 
-Powered by **LangGraph**, **Groq**, and **Google Gemini**, the application deploys an autonomous swarm to produce publication-grade research papers. It features a retro-futuristic dark neon interface equipped with an interactive, drag-and-zoom semantic node graph and comprehensive PDF/Word export tools.
+Powered by **LangGraph**, **Groq**, and **Google Gemini**, the application deploys an autonomous swarm to produce publication-grade research papers. It features a retro-futuristic dark neon interface equipped with comprehensive PDF/Word export tools.
 
 ---
 
@@ -15,10 +15,10 @@ Powered by **LangGraph**, **Groq**, and **Google Gemini**, the application deplo
 | ![Landing Page](./screenshots/landing_desk.png) | ![Neural Matrix](./screenshots/neural_terminal.png) |
 | *Modern control console where users configure research depth and personas.* | *Retro-themed terminal displaying live coordinate streams between active agents.* |
 
-| **Interactive Concept Graph (React Flow)** | **Sanitized Publication Report** |
-| :---: | :---: |
-| ![React Flow Graph](./screenshots/concept_graph.png) | ![Research Report](./screenshots/research_report.png) |
-| *Dynamic drag-and-zoom network mapping concepts and structural notes.* | *Beautifully typeset academic output containing zero modern visual anachronisms.* |
+| **Sanitized Publication Report** |
+| :---: |
+| ![Research Report](./screenshots/research_report.png) |
+| *Beautifully typeset academic output containing zero modern visual anachronisms.* |
 
 ---
 
